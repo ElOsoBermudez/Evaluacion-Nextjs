@@ -22,7 +22,7 @@ export default function LoginPage() {
       </div>
       <div className="bg-muted relative hidden lg:block">
         <Image
-          src="/placeholder.svg"
+          src="/free-photo-of-osos.jpeg"
           alt="Login background"
           fill
           className="object-cover dark:brightness-[0.2] dark:grayscale"
